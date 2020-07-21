@@ -1,2 +1,8 @@
 # telegram-bot-weather-forecast
-My first telegram-bot on Java
+Реализация телеграм-бота для получения прогноза погоды.
+Ссылка на ресурс с материалом: 
+https://goo-gl.ru/6ueX 
+Для запуска бота может понадобится VPN.
+
+
+
